@@ -1,0 +1,162 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #bbe1fa;
+  color: #1b262c;
+}
+
+.row {
+  margin-top: auto;
+  padding: 10px;
+}
+
+.navbar-light .navbar-brand {
+  /* color: rgba(0,0,0,.9); */
+  color: #1b262c;
+}
+.navbar-light .navbar-brand:hover{
+  color:#fff;
+}
+.moto {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+  padding: 0.5rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .3rem;
+  margin-right: 0.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+  font-family: "Montserrat-light"
+}
+
+.download-btn {
+  margin: 5% 3% 5% 0;
+}
+
+.penstand {
+  height: 450px;
+  width: 450px;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #3282b8;
+  margin-bottom: 1.2rem;
+}
+
+.icon:hover {
+  color: #bbe1fa;
+}
+
+#founder {
+  text-align: center;
+  background-color: #bbe1fa;
+  color: #1b262c;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.myself {
+  height: 40%;
+  width: 40%;
+  align-items: center;
+  margin: 3%;
+}
+
+h2 {
+  font-size: 3rem;
+  font-family: "Montserrat-Bold";
+  line-height: 1.5;
+}
+
+.press-logo{
+  width:150px;
+  height:100px;
+  margin:10px 20px 50px;
+}
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%231b262c' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%231b262c' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+.plan{
+  padding-top: 10%;
+  padding-bottom: 2%;
+  text-align: center;
+}
+.package{
+  padding: 0 5% 0 5%;
+  width: auto;
+  margin: 0;
+}
+.card-text{
+  font-weight: normal;
+  color: #1b262c;
+}
+.card-title{
+  font-size: 2.5em;
+}
+#footer{
+  text-align: center;
+}
+#cta{
+  text-align: center;
+  margin-top: 6%;
+  padding: 8%;
+  background-color: #bbe1fa;
+}
+.cta-h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #1b262c ;
+  font-size: 3em;
+  line-height: 1.5;
+  margin-bottom: 50px;
+  padding: 0 5%;
+  margin: auto;
+}
+.ending{
+  color: grey;
+  margin-bottom: 10%;
+}
